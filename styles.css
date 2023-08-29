@@ -1,6 +1,5 @@
 /*  your css code here. If applicable */
-.yellow{
-	border-width: 1px;
-	border-color: green;
+#yellow{
+	border-color: 1px solid green;
 	background-color: yellow;
 }
